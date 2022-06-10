@@ -2,3 +2,5 @@ Goal:
   To implement Binay Neural Network (BNN) in C++. Then use Vivado HLS get readble RTL code. Use built-in optimization tool in Vivado to optomize design for better timing and performance.
   
   
+Steps:
+  Input -> Layer_1 (convolution) -> Bathch Normalization -> Layer 2 -> Bathch Normalization -> Layer 3 -> Bathch Normalization -> Fully Connected Layer 
