@@ -4,3 +4,7 @@ Goal:
   
 Steps:
   Input -> Layer_1 (convolution) -> Bathch Normalization -> Layer 2 -> Bathch Normalization -> Layer 3 -> Bathch Normalization -> Fully Connected Layer 
+  
+Optimization Techniques:
+  Loop-unrolling (more parallelism)
+  Pipelineing  (more reousece/power intensive but improves timing)
