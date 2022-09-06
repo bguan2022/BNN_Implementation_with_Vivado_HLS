@@ -8,3 +8,5 @@ Steps:
 Optimization Techniques:
   Loop-unrolling (more parallelism)
   Pipelineing  (more reousece/power intensive but improves timing)
+  
+![Screen Shot 2022-09-06 at 2 29 28 PM](https://user-images.githubusercontent.com/42010432/188743981-318342a6-3678-40ac-880d-8f8065e4dd98.png)
